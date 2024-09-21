@@ -1,16 +1,17 @@
-# bloc_project_app
 
-A new Flutter project.
 
-## Getting Started
+Email: eve.holt@reqres.in
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Password: cityslicka
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+/*****************************************LOGIN****************************************/
+
+![Screenshot_1726907113](https://github.com/user-attachments/assets/34355039-048e-4cc4-bbef-8572e0f9712c)
+
+
+/*****************************************HOME SCREEN****************************************/
+
+![Screenshot_1726907133](https://github.com/user-attachments/assets/2fc18da6-30c2-4bb9-8aa7-2e6d69e94375)
